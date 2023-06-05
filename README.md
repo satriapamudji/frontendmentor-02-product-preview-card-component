@@ -23,5 +23,5 @@ This project was a bit of a challenge for me initially as I was just getting use
 
 ### Links
 
-- Live Site URL: [Product Preview Card Component](https://your-live-site-url.com)
-- View my other challenges here: [Main Repository](#)
+- Live Site URL: [Product Preview Card Component](https://frontendmentor-02-product-preview-card-component.vercel.app/)
+- View my other challenges here: [Challenges Page](https://frontendmentor-00-main.vercel.app/)
